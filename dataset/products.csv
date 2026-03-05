@@ -1,0 +1,7 @@
+product_id,product_name,product_type,base_interest_rate,max_tenure_years
+1,Home Loan,Secured,8.5,20
+2,Personal Loan,Unsecured,12.5,5
+3,Car Loan,Secured,9.25,7
+4,Education Loan,Unsecured,10.0,10
+5,Business Loan,Secured,11.0,12
+6,Gold Loan,Secured,10.75,4

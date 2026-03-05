@@ -1,0 +1,26 @@
+branch_id,branch_name,city,region,branch_type
+1,Visakhapatnam Branch 01,Visakhapatnam,South,Metro
+2,Mysuru Branch 02,Mysuru,South,Metro
+3,Noida Branch 03,Noida,North,Metro
+4,Mumbai Branch 04,Mumbai,West,Urban
+5,Bhopal Branch 05,Bhopal,Central,Metro
+6,Lucknow Branch 06,Lucknow,North,Metro
+7,Hyderabad Branch 07,Hyderabad,South,Metro
+8,Indore Branch 08,Indore,Central,Urban
+9,Bhopal Branch 09,Bhopal,Central,Metro
+10,Visakhapatnam Branch 10,Visakhapatnam,South,Semi-Urban
+11,Lucknow Branch 11,Lucknow,North,Metro
+12,Nagpur Branch 12,Nagpur,West,Metro
+13,Chennai Branch 13,Chennai,South,Semi-Urban
+14,Ahmedabad Branch 14,Ahmedabad,West,Urban
+15,Bhubaneswar Branch 15,Bhubaneswar,East,Metro
+16,Delhi Branch 16,Delhi,North,Rural
+17,Bhubaneswar Branch 17,Bhubaneswar,East,Metro
+18,Jaipur Branch 18,Jaipur,North,Metro
+19,Guwahati Branch 19,Guwahati,East,Urban
+20,Bangalore Branch 20,Bangalore,South,Semi-Urban
+21,Bhopal Branch 21,Bhopal,Central,Metro
+22,Jaipur Branch 22,Jaipur,North,Metro
+23,Kolkata Branch 23,Kolkata,East,Semi-Urban
+24,Chandigarh Branch 24,Chandigarh,North,Semi-Urban
+25,Guwahati Branch 25,Guwahati,East,Urban

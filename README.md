@@ -1,5 +1,8 @@
 # Bank Loan Analytics Dashboard (SQL + Power BI)
 
+<img src="ss/Page 1.png" width="800">
+
+<img src="ss/Page 2.png" width="800">
 📌 Project Overview
 
 This project analyzes bank loan distribution, branch performance, and portfolio health using SQL and Power BI.
